@@ -3,11 +3,11 @@
 ![Project Image](https://okvqa.allenai.org/static/img/Dataset_Example_Categories_v2.jpg)
 > The system we propose can answer to questions like the ones shown in the picture.
 
-### Team Members
+<!-- ### Team Members
 
 - [Ram Gunasekaran A 18BCE1234](#ram)
 - [Siddharth M Nair 18BCE1238](#sid)
-- [C K M Ganesan 18BCE1266](#ckm)
+- [C K M Ganesan 18BCE1266](#ckm) -->
 
 ### Table of Contents
 
